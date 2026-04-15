@@ -1,9 +1,9 @@
 Catégorie,Basse,Haute,Moyenne
 Annulation / Réservation,0,96,0
-Autre,138,17,4
-Bug Technique,10,46,0
+Autre,139,9,2
+Bug Technique,10,48,0
 Financier,12,103,0
-Localisation / Langue,8,91,6
-Qualité du bien,41,34,3
-Service Client,9,46,0
-UX / Ergonomie,6,21,4
+Localisation / Langue,8,92,6
+Qualité du bien,41,35,3
+Service Client,9,50,0
+UX / Ergonomie,6,22,5
